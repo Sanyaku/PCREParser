@@ -4,10 +4,10 @@
     xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 
     <modelVersion>4.0.0</modelVersion>
-    <groupId>nl.big-o</groupId>
+    <groupId>com.sumologic.pcreparser</groupId>
     <artifactId>PCREParser</artifactId>
     <packaging>jar</packaging>
-    <version>0.4.0</version>
+    <version>0.4.0-sumo</version>
     <name>PCREParser</name>
 
     <properties>

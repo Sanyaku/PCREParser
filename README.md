@@ -1,5 +1,7 @@
 ## PCREParser
 
+Built and deployed to: com.sumologic.pcreparser:PCREParser:0.4.0-sumo
+
 ### Introduction
 
 An ANTLR 3 grammar that generates a parser able to parse [PCRE](http://www.pcre.org/pcre.txt) (Perl 
